@@ -9,12 +9,19 @@ Este projeto tem como objetivo principal **prever a evasão de clientes (churn)*
 ## 📁 Estrutura do Projeto
 
 ├── ML/
+
 │ └── modelos_ml.ipynb # Notebook principal com toda a análise e modelagem
+
 │ └── requirements.txt # requisitos para rodar o notebook
+
 ├── dataset/
+
 │ └── Telecom_X_Data_Normalized.csv # Dados tratados, normalizados e quase prontos para modelagem
+
 ├── img/
+
 │ └── *.png # Gráficos e visualizações geradas durante a análise
+
 ├── README.md # Este arquivo
 
 
